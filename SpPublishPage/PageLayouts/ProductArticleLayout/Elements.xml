@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+  <Module Name="ProductArticleLayout" Url="_catalogs/masterpage">
+
+    <File Path="ProductArticleLayout\ProductArticleLayout.aspx" Url="ProductArticleLayout.aspx" Type="GhostableInLibrary" ReplaceContent="TRUE">
+      <Property Name="Title" Value="Product Article" />
+      <Property Name="MasterPageDescription" Value="Article." />
+      <Property Name="ContentType" Value="Page Layout" />
+      <Property Name="PublishingAssociatedContentType" Value=";#PaginaProducto;#0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900BE6E9A7640674EF9BA5BC5B350448361;#" />
+      <Property Name="PublishingHidden" Value="FALSE" />
+      <Property Name="HtmlDesignAssociated" Value="FALSE" />
+    </File>
+
+  </Module>
+
+</Elements>

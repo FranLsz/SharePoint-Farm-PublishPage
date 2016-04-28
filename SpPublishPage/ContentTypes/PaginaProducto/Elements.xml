@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Page (0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF39) -->
+  <ContentType ID="0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900BE6E9A7640674EF9BA5BC5B350448361" Name="PaginaProducto" Group="Custom Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{64453e01-b2b2-4428-990d-e0ca21443fbc}" DisplayName="Product Code" Required="TRUE" Name="ProductCode" />
+    </FieldRefs>
+  </ContentType>
+</Elements>
